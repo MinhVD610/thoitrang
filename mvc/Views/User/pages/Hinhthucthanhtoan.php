@@ -33,17 +33,17 @@
 <p>Bạn có thể thanh toán với VIEST qua các phương thức sau:</p>
 <ul><li>Chuyển khoản ngân hàng qua các tài khoản:
 </li>
-<li><b>Ngân hàng ACB:</b></li>
+<li><b>Ngân hàng MB:</b></li>
 <li>Chi nhánh Ông Ích Khiêm</li>
-<li>Chủ Tài Khoản: Lily</li>
-<li>số Tài khoản: 185783319</li>
+<li>Chủ Tài Khoản: Minh</li>
+<li>số Tài khoản: 0978532636</li>
 <li><b>Ngân hàng VCB</b></li>
 <li>Chi nhánh Đà Nẵng</li>
-<li>Chủ Tài khoản: Lily</li>
+<li>Chủ Tài khoản: Minh</li>
 <li>Số Tài khoản: 968754685498</li>
 <li><b>Ngân hàng Vietcombank:</b></li>
 <li>Chi nhánh Phú Thọ (HCM)</li>
-<li>Chủ Tài Khoản: Lily</li>
+<li>Chủ Tài Khoản: Minh</li>
 <li>Số Tài khoản: 0421000433759</li>
 <li>Thanh toán trực tiếp tại quầy</li>
 <li>Thanh toán qua dịch vụ COD của đối tác giao hàng. Khi nhân viên giao hàng tới, bạn thanh toán tiền và nhận sản phẩm.

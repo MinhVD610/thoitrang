@@ -21,15 +21,15 @@
             <h4>Hổ trợ</h4>
             <li>
                 <i class="fa-solid fa-phone"></i>
-                <span>097686609</span>
+                <span>0978532636</span>
             </li>
             <li>
                 <i class="fa-solid fa-phone"></i>
-                <span>0376645454</span>
+                <span>0978532636</span>
             </li>
             <li>
                 <i class="fa-solid fa-envelope"></i>
-                <span>lily@gmail.com</span>
+                <span>minhnc2k4@gmail.com</span>
             </li>
             <li>
                 <i class="fa-solid fa-clock"></i>
@@ -87,7 +87,7 @@
                 <div class="Icon__Footer">
                 <ul  class="wrapper">
     
-    <a href="https://www.facebook.com/profile.php?id=100050261354686&mibextid=ZbWKwL">
+    <a href="https://www.facebook.com/minhdey610">
         <li class="icon facebook">
             <span  class="tooltip" >Facebook</span>
             <span href="" ><i  class="fab fa-facebook"></i></span>

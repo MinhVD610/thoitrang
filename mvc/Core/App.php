@@ -64,15 +64,17 @@
             }
         }
 
-        function urlProcess()
+function urlProcess()
+    {
+        if(isset($_GET["url"]))
         {
-            if($_GET["url"])
-            {
-                $temp = filter_var(trim($_GET["url"],"/"));
-                $result = explode("/",$temp);
-
-                return $result;
-            }
+            $temp = filter_var(trim($_GET["url"],"/"));
+            $result = explode("/",$temp);
+            return $result;
         }
+        
+        // Cấp ngay cho nó một Controller mặc định thay vì mảng rỗng
+        return ["TrangChu"]; 
+    }
     }
 ?>

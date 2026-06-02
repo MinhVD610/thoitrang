@@ -69,7 +69,7 @@
                     <span class="closeLogined Header__Top-line color--Brown">|</span>
 
                     <div class="cart">
-                        <i class="fa-solid fa-cart-shopping color--Brown" onclick="onpenCart()"></i>
+                        <i class="fa-solid fa-cart-shopping color--Brown" onclick="openCart()"></i>
                         <p class="AmountCart"></p>
                         <div class="cart__Contain">
                             <div class="cart__Contain--RowTop">

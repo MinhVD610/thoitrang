@@ -17,7 +17,7 @@ function openSearch() {
   document.querySelector(".cart__Contain").style.display = "none";
 }
 
-function onpenCart() {
+function openCart() {
   if (document.querySelector(".cart__Contain").style.display === "none") {
     document.querySelector(".cart__Contain").style.display = "grid";
   } else {
@@ -1175,7 +1175,7 @@ $(document).ready(function () {
 
     methodPay = "Chuyển khoản ngân hàng";
     title = "<p><i class='fa-solid fa-circle-exclamation'></i> Cảm ơn bạn đã mua hàng tại VIETSTALL. Bạn vui lòng chờ xác nhận đơn hàng qua email từ nhân viên Inbox/Order sau khi kiểm tra tình trạng còn hàng tại kho. Vui lòng <b>KHÔNG</b> chuyển khoản trước khi nhận được xác nhận từ VIEST. Xin cảm ơn!</p>";
-    inforBank = "<p>Sau khi nhân viên Inbox/Order xác nhận còn hàng, Bạn vui lòng chuyển khoản với nội dung (copy đúng nội dung này để VIEST kiểm tra nhanh cho bạn): <b>#255118 124124 xxxx xxxx</b>vào tài khoản ngân hàng sau:</p>" + "<div class='Infor__Bank'>" + "<b>THÔNG TIN TÀI KHOẢN NGÂN HÀNG CỦA CHÚNG TÔI</b>" + "<div class='Infor__Bank--Contain'>" + "<div>NGUYỄN THỊ LÂM VY</div>" + "<div> NGÂN HÀNG QUÂN ĐỘI MB BANK</div>" + "<div>Số tài khoản: <b>9007041261388</b></div>" + "</div>" + "</div>";
+    inforBank = "<p>Sau khi nhân viên Inbox/Order xác nhận còn hàng, Bạn vui lòng chuyển khoản với nội dung (copy đúng nội dung này để VIEST kiểm tra nhanh cho bạn): <b>#255118 124124 xxxx xxxx</b>vào tài khoản ngân hàng sau:</p>" + "<div class='Infor__Bank'>" + "<b>THÔNG TIN TÀI KHOẢN NGÂN HÀNG CỦA CHÚNG TÔI</b>" + "<div class='Infor__Bank--Contain'>" + "<div>VU DUC MINH</div>" + "<div> NGÂN HÀNG QUÂN ĐỘI MB BANK</div>" + "<div>Số tài khoản: <b>0978532636</b></div>" + "</div>" + "</div>";
 
     if ($("input[name=rdPaymentMethod]:checked").val() == "2") {
       methodPay = "Trả tiền mặt khi nhận hàng (COD)";
